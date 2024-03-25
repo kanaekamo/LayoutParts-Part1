@@ -12,5 +12,8 @@
   box-shadow: 0 0 0 6px #655;
   border-radius: 13px;
   background: #d2b48c;
-  margin: 30px;
+  margin-right: 60px;
+}
+.card:last-child{
+  margin-right: 0px;
 }
